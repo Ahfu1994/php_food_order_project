@@ -1,0 +1,197 @@
+/* autho :chiradet; 
+    theme :food order website admin;
+    ver:1;
+
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    /* border: 1px solid black; */
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+.tbl-full {
+    width: 100%;
+}
+
+.tbl-30 {
+    width: 40%;
+}
+
+table tr th {
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td {
+    padding: 1%;
+    word-wrap: normal;
+}
+
+.btn-primary {
+    background-color: #1e90ff;
+    padding: 1%;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #3742fa;
+}
+
+.btn-danger {
+    background-color: #ff7f50;
+    padding: 1%;
+    color: #000;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color: #ff6348;
+}
+
+.btn-warring {
+    background-color: #eccc68;
+    padding: 1%;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.btn-warring:hover {
+    background-color: #ffa502;
+}
+
+.btn-secondary {
+    background-color: #7bed9f;
+    padding: 1%;
+    color: #000;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.btn-secondary:hover {
+    background-color: #2ed573;
+}
+
+.success {
+    color: #2ed573;
+}
+
+.error {
+    color: #ff4757;
+}
+
+
+/* css menu */
+
+.menu {
+    border-bottom: 1px solid black;
+}
+
+.menu .wrapper li {
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    padding: 1%;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff6b81;
+}
+
+.menu ul li a:hover {
+    color: #ff4757;
+}
+
+
+/* css main content */
+
+.main-content {
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+
+.col-4 {
+    width: 18%;
+    background-color: #fff;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+
+
+/* css footer */
+
+.footer {
+    background-color: #ff6b81;
+    padding: 1%;
+    color: #fff;
+}
+
+
+/* css manage admin */
+
+.btnAdd {
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+/* css login */
+
+.login {
+    border: 1px solid gray;
+    width: 50%;
+    margin: 5% auto;
+    padding: 1%;
+}
+
+
+/* manage category */
+
+.image_category img {
+    width: 100px;
+    height: 100px;
+}
+
+table {
+    width: 100%;
+}
+
+
+/* manage food */
+
+.image_food img {
+    width: 100px;
+    height: 100px;
+}

@@ -2,7 +2,7 @@
 
 1. ใช้ MySQL สร้าง Database 
 
-2. ใช้ ภาษา PHP เขียน server side ใช้ ภาษา HTML , CSS  เขียน clite side
+2. ใช้ ภาษา PHP เขียน server side ใช้ ภาษา HTML , CSS  เขียน client side
 
 3. มี Admin page สำหรับจัดการ Website
 

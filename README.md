@@ -6,9 +6,9 @@
 
 3. มี Admin page สำหรับจัดการ Website
 
-4. มี  page Login
+4. มี Login page 
 
-5. มีการ ใช้ MD5 Security และ ป้องกัน SQL injection 
+5. มีการใช้ MD5 Security และ ป้องกัน SQL injection 
 
 6. สามารถ Uploading Files/Images เข้าใน database ได้
 

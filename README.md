@@ -17,9 +17,9 @@
 8. มี Summary Dashboard สรุป จำนวน Orders ที่มีอยู่ทั้งหมด
 
 # Run project
-1. ติดตั้ง xammp
+1. ติดตั้ง XAMPP
 
-2. clone project ลงใน folder htdocs ของ xamp
+2. clone project ลงใน folder htdocs ของ XAMPP
 
 3. run file index.html สำหรับ customer
 
